@@ -14,6 +14,35 @@ Prerequisites
  - imagemagick
 
 
+Samples
+-------
+
+### Circle Suit:
+![tile](samples/tile-00-0.4.png) ![tile](samples/tile-01-0.4.png) ![tile](samples/tile-02-0.4.png) ![tile](samples/tile-03-0.4.png) ![tile](samples/tile-04-0.4.png) ![tile](samples/tile-05-0.4.png) ![tile](samples/tile-06-0.4.png) ![tile](samples/tile-07-0.4.png) ![tile](samples/tile-08-0.4.png)
+
+### Bamboo Suit:
+![tile](samples/tile-24-0.4.png) ![tile](samples/tile-25-0.4.png) ![tile](samples/tile-26-0.4.png) ![tile](samples/tile-27-0.4.png) ![tile](samples/tile-28-0.4.png) ![tile](samples/tile-29-0.4.png) ![tile](samples/tile-30-0.4.png) ![tile](samples/tile-31-0.4.png) ![tile](samples/tile-32-0.4.png)
+
+
+### Character Suit:
+![tile](samples/tile-15-0.4.png) ![tile](samples/tile-16-0.4.png) ![tile](samples/tile-17-0.4.png) ![tile](samples/tile-18-0.4.png) ![tile](samples/tile-19-0.4.png) ![tile](samples/tile-20-0.4.png) ![tile](samples/tile-21-0.4.png) ![tile](samples/tile-22-0.4.png) ![tile](samples/tile-23-0.4.png)
+
+### Wind Tiles:
+![tile](samples/tile-09-0.4.png) ![tile](samples/tile-10-0.4.png) ![tile](samples/tile-11-0.4.png) ![tile](samples/tile-12-0.4.png)
+
+### Dragon Tiles:
+![tile](samples/tile-13-0.4.png) ![tile](samples/tile-14-0.4.png) ![tile](samples/tile-37-0.4.png)
+
+### Flower Tiles:
+![tile](samples/tile-33-0.4.png) ![tile](samples/tile-34-0.4.png) ![tile](samples/tile-35-0.4.png) ![tile](samples/tile-36-0.4.png)
+
+### Season Tiles:
+![tile](samples/tile-38-0.4.png) ![tile](samples/tile-39-0.4.png) ![tile](samples/tile-40-0.4.png) ![tile](samples/tile-41-0.4.png)
+
+### Blank Tile:
+![tile](samples/tile-42-0.4.png)
+
+
 License
 -------
 
