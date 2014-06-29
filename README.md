@@ -3,7 +3,10 @@ Smooth Tileset for Gnome Mahjongg
 
 This is an updated version of the script and images used to render the original
 Smooth tileset for Gnome Mahjongg.  I have recently unearthed this script and updated
-it to render with POVRay 3.7, and performed various other tweaks.
+it to render with POVRay 3.7, and performed various other tweaks.  Changes include:
+
+ - Updated artwork
+ - Higher resolution rendering
 
 
 Prerequisites
@@ -14,8 +17,8 @@ Prerequisites
  - imagemagick
 
 
-Samples
--------
+Sample Output
+-------------
 
 ### Circle Suit:
 ![tile](samples/tile-00-0.4.png) ![tile](samples/tile-01-0.4.png) ![tile](samples/tile-02-0.4.png) ![tile](samples/tile-03-0.4.png) ![tile](samples/tile-04-0.4.png) ![tile](samples/tile-05-0.4.png) ![tile](samples/tile-06-0.4.png) ![tile](samples/tile-07-0.4.png) ![tile](samples/tile-08-0.4.png)
@@ -38,9 +41,6 @@ Samples
 
 ### Season Tiles:
 ![tile](samples/tile-38-0.4.png) ![tile](samples/tile-39-0.4.png) ![tile](samples/tile-40-0.4.png) ![tile](samples/tile-41-0.4.png)
-
-### Blank Tile:
-![tile](samples/tile-42-0.4.png)
 
 
 License
